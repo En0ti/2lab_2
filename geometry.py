@@ -9,5 +9,5 @@ def calculate_rectangle_area(a: float, b: float) -> float:
     return a * b
 
 if __name__ == "__main__":
-    print("Version A")
+    print("Version B")
 
